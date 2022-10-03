@@ -1,0 +1,16 @@
+modLoader="javafml" #mandatory
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]] #mandatory
+modId="minetemp" #mandatory
+version="${file.jarVersion}"
+displayName="MineTemp 1.19.2" #mandatory
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="examplemod.png"
+credits="Me"
+authors="Kikwi333"
+description='''
+A 1.19.2 Forge Mod which simulates temperatures in the world of Minecraft
+'''
